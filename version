@@ -1,0 +1,11 @@
+1.5.0;
+- Ported to Kade Engine! Still not perfect as cutscenes are not yet added.
+	- Allows ghost tapping, which means you can press without missing (CAN BE CHANGED IN OPTIONS MENU)
+	- Options Menu (WITH CUSTOM MODIFIERS LIKE REANIMATED SPRITES AND ZAVODILA EFFECTS!!)
+	- Allows custom keybinds.
+	- Scores WILL be reset since it now uses ~\AppData\Roaming for save data.
+	- Kade Engine settings WILL be reset since the app uses a custom filename.
+- BRAND NEW CHARTS!
+	- All difficulties are currently the same since I haven't gotten around to charting the rest lol
+	- yeah you can't get the old ones lol
+	- Fixed Zavodila having an incorrect BPM
