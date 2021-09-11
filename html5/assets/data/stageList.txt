@@ -1,5 +1,0 @@
-stage
-churchlight
-churchdark
-churchruv
-hellchurch
