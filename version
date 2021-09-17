@@ -1,5 +1,6 @@
-1.5.0;
-- Ported to Kade Engine!
-- Options menu with custom modifiers
-- Fixes Zavodila BPM
-- Completely recharted
+1.6.0;
+- Ported to Psych Engine!
+- Custom modifiers moved to Preferences submenu
+- Fixed Parish BPM
+- Charts now different for every difficulty
+- Credits menu
